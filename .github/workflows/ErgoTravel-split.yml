@@ -15,7 +15,7 @@ jobs:
       matrix:
         # Replace the following with the keyboard you want to setup.  
         # Only 1 keyboard is supported.  For more keyboards, copy and rename this file.
-        keyboard: ['bfo-9000']
+        keyboard: ['bfo9000']
         # Keymap of the keyboard to setup.  Multiple keymaps can be setup following this example: ['default','jpconstantineau']
         keymap: ['default']
         # keyboard configuration. Multiple configs can be setup following this example: ['left','right']
